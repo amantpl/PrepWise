@@ -10,7 +10,7 @@
 PrepWise empowers job seekers to ace technical interviews through realistic **voice-based AI interviews** and in-depth **performance analytics**. Practice anytime, get instant feedback, and track your progress—all in one place.
 
 <p align="center">
-  <img src="/dashboard.png" alt="PrepWise Screenshot" width="600"/>
+  <img src="/dashboard.jpg" alt="PrepWise Screenshot" width="600"/>
 </p>
 
 ---
