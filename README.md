@@ -10,7 +10,7 @@
 PrepWise empowers job seekers to ace technical interviews through realistic **voice-based AI interviews** and in-depth **performance analytics**. Practice anytime, get instant feedback, and track your progress—all in one place.
 
 <p align="center">
-  <img src="[https://prep-wise-nu-one.vercel.app/preview.png](https://drive.google.com/file/d/1a26wfZxbwTHCi4xk7Z8qPYpQNC0kfXcE/view?usp=sharing)" alt="PrepWise Screenshot" width="600"/>
+  <img src="https://drive.google.com/file/d/1a26wfZxbwTHCi4xk7Z8qPYpQNC0kfXcE/view?usp=sharing" alt="PrepWise Screenshot" width="600"/>
 </p>
 
 ---
