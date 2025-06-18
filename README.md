@@ -8,7 +8,7 @@
 ## 🚀 Overview
 PrepWise is an innovative platform that helps job seekers prepare for technical interviews through realistic AI-powered mock interviews. Practice with voice-based interviews, get instant feedback on your performance, and identify areas for improvement.
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://prepwise.app)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)]([https://prepwise.app](https://prep-wise-nu-one.vercel.app/))
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 ## ✨ Key Features
