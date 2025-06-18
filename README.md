@@ -13,6 +13,14 @@ PrepWise helps job seekers prepare for technical interviews through realistic AI
 - **Secure Authentication** - Firebase-powered user management
 - **Responsive Design** - Works seamlessly on desktop and mobile
 
+- graph LR
+A[User] --> B(Voice-based Interview)
+B --> C{AI Analysis}
+C --> D[Performance Scores]
+C --> E[Personalized Feedback]
+D --> F[Improvement Plan]
+E --> F
+
 ## Tech Stack
 **Frontend:**
 - Next.js 14
