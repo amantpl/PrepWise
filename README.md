@@ -3,7 +3,7 @@
 ## Overview
 PrepWise helps job seekers prepare for technical interviews through realistic AI-powered mock interviews. Practice with voice-based interviews, get instant feedback on your performance, and identify areas for improvement.
 
-[Live Demo](https://prep-wise-nu-one.vercel.app/) | [License](LICENSE)
+[Live Demo](https://prep-wise-nu-one.vercel.app/)
 
 ## Key Features
 - **Voice-based AI Interviews** - Natural conversation with AI interviewers
