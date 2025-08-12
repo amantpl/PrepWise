@@ -1,5 +1,5 @@
 **PrepWise**
-*AI-Powered Mock Interview Platform*
+_AI-Powered Mock Interview Platform_
 
 [![Live Demo](https://img.shields.io/badge/demo-online-blue)](https://prep-wise-nu-one.vercel.app/)
 
@@ -29,18 +29,19 @@ PrepWise empowers job seekers to ace technical interviews through realistic **vo
 
 ## 🔑 Key Features
 
-* 🎤 **Voice-Based AI Interviews**: Engage in natural conversation with AI interviewers.
-* 📊 **Performance Analytics**: Detailed scores across:
+- 🎤 **Voice-Based AI Interviews**: Engage in natural conversation with AI interviewers.
+- 📊 **Performance Analytics**: Detailed scores across:
 
-  * Communication Skills
-  * Technical Knowledge
-  * Problem-Solving
-  * Cultural & Role Fit
-  * Confidence & Clarity
-* 📝 **Personalized Feedback**: Actionable recommendations to improve.
-* 🛠️ **Dynamic Question Generator**: Tailored questions by role, level, and tech stack.
-* 🔒 **Secure Authentication**: Firebase-backed user management.
-* 📱 **Responsive Design**: Desktop & mobile-ready UI.
+  - Communication Skills
+  - Technical Knowledge
+  - Problem-Solving
+  - Cultural & Role Fit
+  - Confidence & Clarity
+
+- 📝 **Personalized Feedback**: Actionable recommendations to improve.
+- 🛠️ **Dynamic Question Generator**: Tailored questions by role, level, and tech stack.
+- 🔒 **Secure Authentication**: Firebase-backed user management.
+- 📱 **Responsive Design**: Desktop & mobile-ready UI.
 
 ---
 
@@ -58,9 +59,9 @@ PrepWise empowers job seekers to ace technical interviews through realistic **vo
 
 **Prerequisites**
 
-* Git
-* Node.js
-* npm
+- Git
+- Node.js
+- npm
 
 ```bash
 # Clone & navigate
@@ -138,5 +139,4 @@ Please ensure code follows project conventions and includes tests where applicab
 
 ---
 
-*Made by Aman Thapliyal*
-
+_Made by Aman Thapliyal and Gautam Kumar_
